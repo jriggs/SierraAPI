@@ -1,0 +1,14 @@
+C:\Users\jriggs\documents\visual studio 2013\Projects\SierraAPI\SierraAPI\bin\Debug\SierraAPI.dll
+C:\Users\jriggs\documents\visual studio 2013\Projects\SierraAPI\SierraAPI\bin\Debug\SierraAPI.pdb
+C:\Users\jriggs\documents\visual studio 2013\Projects\SierraAPI\SierraAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jriggs\documents\visual studio 2013\Projects\SierraAPI\SierraAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jriggs\documents\visual studio 2013\Projects\SierraAPI\SierraAPI\obj\Debug\SierraAPI.dll
+C:\Users\jriggs\documents\visual studio 2013\Projects\SierraAPI\SierraAPI\obj\Debug\SierraAPI.pdb
+C:\Users\jriggs\documents\visual studio 2013\Projects\SierraAPI\SierraAPI\obj\Debug\SierraAPI.csprojResolveAssemblyReference.cache
+C:\Users\jriggs\Documents\Visual Studio 2013\Projects\Common\Trunk\Source\plch.sierra\SierraAPI\bin\Debug\SierraAPI.dll
+C:\Users\jriggs\Documents\Visual Studio 2013\Projects\Common\Trunk\Source\plch.sierra\SierraAPI\bin\Debug\SierraAPI.pdb
+C:\Users\jriggs\Documents\Visual Studio 2013\Projects\Common\Trunk\Source\plch.sierra\SierraAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jriggs\Documents\Visual Studio 2013\Projects\Common\Trunk\Source\plch.sierra\SierraAPI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jriggs\Documents\Visual Studio 2013\Projects\Common\Trunk\Source\plch.sierra\SierraAPI\obj\Debug\SierraAPI.dll
+C:\Users\jriggs\Documents\Visual Studio 2013\Projects\Common\Trunk\Source\plch.sierra\SierraAPI\obj\Debug\SierraAPI.pdb
+C:\Users\jriggs\Documents\Visual Studio 2013\Projects\Common\Trunk\Source\plch.sierra\SierraAPI\obj\Debug\SierraAPI.csprojResolveAssemblyReference.cache

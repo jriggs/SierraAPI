@@ -1,0 +1,27 @@
+C:\Users\jriggs\documents\visual studio 2013\Projects\SierraAPI\APITester\bin\Debug\APITester.exe.config
+C:\Users\jriggs\documents\visual studio 2013\Projects\SierraAPI\APITester\bin\Debug\APITester.exe
+C:\Users\jriggs\documents\visual studio 2013\Projects\SierraAPI\APITester\bin\Debug\APITester.pdb
+C:\Users\jriggs\documents\visual studio 2013\Projects\SierraAPI\APITester\bin\Debug\SierraAPI.dll
+C:\Users\jriggs\documents\visual studio 2013\Projects\SierraAPI\APITester\bin\Debug\SierraAPI.pdb
+C:\Users\jriggs\documents\visual studio 2013\Projects\SierraAPI\APITester\obj\Debug\APITester.csprojResolveAssemblyReference.cache
+C:\Users\jriggs\documents\visual studio 2013\Projects\SierraAPI\APITester\obj\Debug\APITester.exe
+C:\Users\jriggs\documents\visual studio 2013\Projects\SierraAPI\APITester\obj\Debug\APITester.pdb
+C:\Users\jriggs\documents\visual studio 2013\Projects\SierraAPI\APITester\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jriggs\documents\visual studio 2013\Projects\SierraAPI\APITester\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jriggs\Desktop\plch.sierra\APITester\bin\Debug\APITester.exe.config
+C:\Users\jriggs\Desktop\plch.sierra\APITester\obj\Debug\APITester.exe
+C:\Users\jriggs\Desktop\plch.sierra\APITester\obj\Debug\APITester.pdb
+C:\Users\jriggs\Documents\Visual Studio 2013\Projects\Common\Trunk\Source\plch.sierra\APITester\obj\Debug\APITester.csprojResolveAssemblyReference.cache
+C:\Users\jriggs\Documents\Visual Studio 2013\Projects\Common\Trunk\Source\plch.sierra\APITester\bin\Debug\APITester.exe.config
+C:\Users\jriggs\Documents\Visual Studio 2013\Projects\Common\Trunk\Source\plch.sierra\APITester\bin\Debug\APITester.exe.manifest
+C:\Users\jriggs\Documents\Visual Studio 2013\Projects\Common\Trunk\Source\plch.sierra\APITester\bin\Debug\APITester.application
+C:\Users\jriggs\Documents\Visual Studio 2013\Projects\Common\Trunk\Source\plch.sierra\APITester\bin\Debug\APITester.exe
+C:\Users\jriggs\Documents\Visual Studio 2013\Projects\Common\Trunk\Source\plch.sierra\APITester\bin\Debug\APITester.pdb
+C:\Users\jriggs\Documents\Visual Studio 2013\Projects\Common\Trunk\Source\plch.sierra\APITester\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jriggs\Documents\Visual Studio 2013\Projects\Common\Trunk\Source\plch.sierra\APITester\bin\Debug\SierraAPI.dll
+C:\Users\jriggs\Documents\Visual Studio 2013\Projects\Common\Trunk\Source\plch.sierra\APITester\bin\Debug\SierraAPI.pdb
+C:\Users\jriggs\Documents\Visual Studio 2013\Projects\Common\Trunk\Source\plch.sierra\APITester\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jriggs\Documents\Visual Studio 2013\Projects\Common\Trunk\Source\plch.sierra\APITester\obj\Debug\APITester.exe.manifest
+C:\Users\jriggs\Documents\Visual Studio 2013\Projects\Common\Trunk\Source\plch.sierra\APITester\obj\Debug\APITester.application
+C:\Users\jriggs\Documents\Visual Studio 2013\Projects\Common\Trunk\Source\plch.sierra\APITester\obj\Debug\APITester.exe
+C:\Users\jriggs\Documents\Visual Studio 2013\Projects\Common\Trunk\Source\plch.sierra\APITester\obj\Debug\APITester.pdb

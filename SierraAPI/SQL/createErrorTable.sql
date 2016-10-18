@@ -1,0 +1,27 @@
+﻿BEGIN TRANSACTION
+SET QUOTED_IDENTIFIER ON
+SET ARITHABORT ON
+SET NUMERIC_ROUNDABORT OFF
+SET CONCAT_NULL_YIELDS_NULL ON
+SET ANSI_NULLS ON
+SET ANSI_PADDING ON
+SET ANSI_WARNINGS ON
+COMMIT
+BEGIN TRANSACTION
+GO
+CREATE TABLE dbo.SierraApiErrorLog
+	(
+	DateTime datetime NULL,
+	Message nvarchar(MAX) NULL,
+	Application nvarchar(50) NULL,
+	Optional nvarchar(MAX) NULL
+	)  ON [PRIMARY]
+	 TEXTIMAGE_ON [PRIMARY]
+GO
+DECLARE @v sql_variant 
+SET @v = N'Store Error Information from Sierra API'
+EXECUTE sp_addextendedproperty N'MS_Description', @v, N'SCHEMA', N'dbo', N'TABLE', N'SierraApiErrorLog', NULL, NULL
+GO
+ALTER TABLE dbo.SierraApiErrorLog SET (LOCK_ESCALATION = TABLE)
+GO
+COMMIT
